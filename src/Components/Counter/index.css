@@ -1,0 +1,66 @@
+.bgContainer {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  align-items: flex-start;
+}
+.card1 {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ffbf1f;
+  height: 100vh;
+}
+.title {
+  color: #0f172a;
+  font-weight: bold;
+  font-family: Roboto;
+  margin-top: 50px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  background-color: #ffc533;
+  width: 50vw;
+  align-items: center;
+  padding: 50px;
+}
+.image {
+  height: 300px;
+  margin-top: 50px;
+}
+.card2 {
+  background-color: #0f172a;
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title2 {
+  color: #ffbf1f;
+  font-weight: bold;
+  font-family: Roboto;
+  margin-top: 50px;
+}
+.inputCard {
+  display: flex;
+  margin-top: 50px;
+}
+.input {
+  padding: 10px;
+  width: 30vw;
+  border-radius: 7px;
+}
+.button {
+  background-color: #ffbf1f;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 30px;
+  border-radius: 10px;
+  color: #1e293b;
+  font-weight: bold;
+}

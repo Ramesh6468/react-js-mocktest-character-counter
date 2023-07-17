@@ -1,0 +1,10 @@
+.item {
+  list-style-type: none;
+  margin: 10px;
+}
+.count {
+  color: #1e293b;
+  font-weight: bold;
+  font-family: Roboto;
+  font-size: 25px;
+}
